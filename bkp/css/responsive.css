@@ -1,0 +1,259 @@
+@media(min-width:320px) and (max-width:676px){
+	.navbar-brand{
+		margin-left: 20px;
+	}
+	.Skill-text h3{
+		line-height: 40px!important;
+		font-size: 30px;
+	}
+	.trading_live_para{text-align: justify;}
+	.skill-section p{text-align: justify;}
+	p.card-text {
+    text-align: justify;
+}
+	.unique_feature_sec .col-md-3{
+		width: 100%!important;
+		flex:100%!important;
+	}
+	.br_db{
+		display: none;
+	}
+	.about_banner{
+		padding: 50px 0;
+	}
+	.unique_feature_sec, .benefits_sec{
+		padding: 50px 0!important;
+	}
+	.mobile_images{
+		display: none;
+	}
+	.col-md-6.pricing_col_6_first, .col-md-6.pricing_col_6_third, .col-md-6.pricing_col_6_second, .col-md-6.pricing_col_6_fourth{
+		width: 90%;
+	    max-width: 90%;
+	    margin: 0 auto;
+	    margin-top: 30px;
+	}
+	.row_check_white{
+	  margin-top: 0px;
+	}
+	.pricing_sec_personal .pricing{
+		margin-top: 50px;
+	}
+	.recommended{
+		top: 26px!important;
+	}
+	.mob_right{
+		display: none;
+	}
+	.admin_banner_image{
+		margin-top: 50px;
+	}
+	.pricing_sec .pricing{
+		margin-top: 50px;
+	}
+	.contact_talk_to{
+		background: none!important;
+		padding: 80px 0;
+	}
+	.pricing_sec{
+		background-image: -webkit-linear-gradient(100deg, #000 98%, #ffffff 50%);
+    	padding: 100px 0 150px;
+	}
+	.crm_content_right{
+		margin-top: 50px;
+	}
+	.mt_4_banner{
+		padding: 50px 0;
+	}
+	.partners-section{
+		padding: 80px 0;
+	}
+	.tab-border{
+		padding: 10px;
+	}
+	.qoute_wrapper_yellow, .qoute_wrapper_black{
+		margin-top: 20px;
+	}
+	.trading_cards_row_two{
+		margin-top: 0;
+		flex-direction: column-reverse;
+	}
+	.unique-section{
+	  padding: 80px 20px 0;
+	}
+	.statistic2{
+		padding: 80px 10px;
+		border-radius: 0;
+		margin: 0;
+	}
+	.index_banner{
+		font-size: 30px;
+		line-height: 35px!important;
+	}
+	.carousel-caption{
+		bottom: 20%;
+	}
+	.about_row_two{
+		margin-top: 0;
+	}
+	.career-details-row{
+		flex-direction: column-reverse;
+	}
+	.career_row-two-detail{
+		margin: 40px 0;
+	}
+	.contact_above_footer.con {
+	    width: 100%!important;
+	    max-width: 100%!important;
+	}
+	.contact-us-row{
+		padding: 0 10px;
+	}
+	.about_us_why{
+		background-image: linear-gradient(180deg, #F4F6F9 50%, #fac213 50%);
+	}
+	.yaPrime_why_image {
+	    margin-top: 50px;
+	}
+	.poimters_row_two .qoute_wrapper_black {
+	    margin: 0;
+	}
+	.poimters_row_two{
+		margin-top: 10px;
+	}
+	.teams_card.two {
+	    margin-top: 20px;
+	}
+	.team_row_two{
+		margin-top: 0px;
+	}
+	.blog-grid-row{
+		margin:0;
+	}
+	.white_label .benefits_row_two .col-md-3 {
+	    width: 50%;
+	}
+	.unique_h1{
+		font-size: 35px;
+		line-height: 40px!important;
+	}
+	.crm_api_image_banner{
+		width: 100%;
+	}
+	.text_uiux_heading{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.graphic_design_banner_section{
+  		padding: 80px 0 0;
+	}	
+	.footer-logo{
+		width: 50%;
+	}
+	.dm_tilt_sec{
+		background-image: -webkit-linear-gradient(115deg, #000 96%, #fff 50%);
+	}
+	.dm_tilt_sec .dm_row_two .col-md-3{
+		margin-top: 20px;
+	}
+	.dm_tilt_sec .dm_row_three .col-md-6{
+		margin-top: 20px;
+	}
+	.dm_tilt_sec .dm_row_two .col-md-4{
+		margin-top: 20px;
+	}
+	.dm_tilt_sec .dm_row_two{
+		margin-top: 0;
+	}
+	.featured-card{
+		margin-bottom: 10%;
+	}
+	.benfits_free_img2 {
+	    margin-top: 20px;
+	}
+	.benefits_free_cards{
+		margin-top: 20px;
+	}
+	.prime_ad_banner{
+		padding: 80px 0px;
+	}
+	.mt4_h1, .mt4_p{
+		padding: 0 20px;
+	}
+	.herobannerSection_prime-special{
+		padding: 20px;
+	}
+	.prime_special_image{
+		margin-top: 30px;
+	}
+	.social-media-icon {
+	    margin-bottom: 20px;
+	}
+	.statistic_card{
+		text-align: center;
+		width: 100%;
+		border: 1px solid #FAC211;
+		margin: 5px;
+		padding: 10px;
+		background: #FEFCF6;
+		border-radius: 16px;
+	}
+	.statistic2 h2{
+		font-size: 30px;
+	}
+	.statistic2 h4{
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.about_h1, .benefits_h2{font-size: 30px; line-height: 40px!important}
+	.about_row_two_intro{flex-direction: column-reverse;}
+	.row.about_row_two_intro.col_rev_do {flex-direction: column;}
+	.about_banner .unique_anchor_one{font-size: 10px;}
+	.about_banner .unique_anchor{font-size: 10px}
+	.cta_unique{display: flex;}
+	.unique-section h1, .reputed-section h1, .partners_logo h1{font-size: 32px; line-height: 40px!important}
+	.col-6.col-lg-2.liquidity_partners{max-width: 50%!important; flex: 0 0 50%;}
+	.unique_heading, .dm_cards_sub_heading{font-size: 35px;line-height: 40px;}
+	.careers_page{padding: 50px 0;}
+	.careers_category{display: flex;}
+	.apply_now_btn{padding: 10px 20px;}
+	.teams_content h2, .crm_h1, .technologies_uiux, 
+	.uiuxHeading, .caseStudy_information, .todo__Discription, 
+	.h2__heading, .check-our-white, .prime_vip_paragraph_special,
+	.YaPrimeMission, .benefit_preheading, .yawealth_heading,
+	.benefit_heading, .free-service-hero-text h1, .prime_vip_paragraph,
+	.pricing_plans_section_h2, .ContactFormContainer h2{
+		line-height: 40px!important; 
+		font-size: 30px;
+	}
+	.heading300{font-size: 40px}
+	.prime_vip_section_wealth{padding: 80px 20px}
+	.demo_contact_yawealth{margin: 30px 0;}
+	.prime_special_section{padding-bottom: 0}
+	.yeawealth_prime_benefit__section, .yawealth_discription{
+		padding: 80px 0;
+	}
+	.container.prime_special_section.prime-special-sction {
+	    padding: 10px 20px;
+	}
+	.yawealth_discription.yea_des {
+	    padding-bottom: 0;
+	    padding-top: 20px;
+	}
+	.free-service-hero-text {
+	    display: block;
+	}
+	h1.mt4_h1, .prime_vvip_subheading {line-height: 40px!important;font-size: 30px;}
+		.white_label .benefits_row_two .col-md-3{flex: 100%}
+	}
+	.modal-dialog{
+		max-width: 100%;
+	}
+	.aapl_row_two{
+		flex-direction: column-reverse;
+	}
+@media (min-width:768px) and (max-width: 1024px){
+	.dm_tilt_sec{
+		background-image: -webkit-linear-gradient(97deg, #000 94%, #fff 50%);
+	}
+}
